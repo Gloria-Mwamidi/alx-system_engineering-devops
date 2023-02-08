@@ -10,4 +10,5 @@ rm /tmp/my_first_directory/betty to delete the file betty
 rmdir /tmp/my_first_directory to delete the directory
 cd - to return to the previous working directory
 ls -al . .. /boot script for question 11 lists
+file/tmp/iamfile script for question 12 file type
 
