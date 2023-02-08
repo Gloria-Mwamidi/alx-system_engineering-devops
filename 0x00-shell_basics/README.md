@@ -7,3 +7,4 @@ The script ls -lan Display current directory contents hidden file numerically
 The script mkdir/tmp/my_first_directory creates the directory under temporary file
 mv /tmp/betty /tmp/my_first_directory moves the file betty
 rm /tmp/my_first_directory/betty to delete the file betty
+rmdir /tmp/my_first_directory to delete the directory
