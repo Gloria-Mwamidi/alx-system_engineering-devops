@@ -5,4 +5,5 @@ own betty hello is the script to change ownership of file hello to betty
 touch hello is the script that creates the empty file 
 chmod u+x hello script that allocates execution rights to user 
 chmod ug+x,o+r script that allocates executuon rights to group and owner while allocating reading rights to others 
+chmod ugo+x hello script to allocate execution rights to owner  others and group 
 
