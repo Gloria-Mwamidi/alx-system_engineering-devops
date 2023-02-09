@@ -12,4 +12,4 @@ chmod --refrence=olleh hello script to copy the permissions of olleh
 chmo -R +x sript to permit execution for all subdirectories
 chmod -m 751 my_dirscript to create directory with sets of permission 
 chgrp school hello script to change the group
- 
+chown vincent:staff script for 14 
