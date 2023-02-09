@@ -3,4 +3,5 @@ whoami script to showcase the current user
 group script displays the groups of the current user
 own betty hello is the script to change ownership of file hello to betty
 touch hello is the script that creates the empty file 
+chmod u+x hello script that allocates execution rights to user 
 
