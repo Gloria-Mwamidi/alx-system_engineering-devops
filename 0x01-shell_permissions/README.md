@@ -8,3 +8,5 @@ chmod ug+x,o+r script that allocates executuon rights to group and owner while a
 chmod ugo+x hello script to allocate execution rights to owner  others and group 
 chmod 007 hello script denies all permission to group and owner but allocates all permission to others
 chmod 753 script for John Doe set the mode
+chmod --refrence=olleh hello script to copy the permissions of olleh
+
