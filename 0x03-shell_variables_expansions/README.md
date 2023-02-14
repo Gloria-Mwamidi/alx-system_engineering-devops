@@ -12,4 +12,5 @@ Write a script that displays the result of BREATH to the power LOVE-echo $((BREA
 Write a script that converts a number from base 2 to base 10.-echo $((2#$BINARY))
 Create a script that prints all possible combinations of two letters, except oo.-printf "%s\n" {a..z}{a..z} | grep -v "oo"
 Write a script that prints a number with two decimal places, followed by a new line.-printf "%0.2f\n" $NUM
+Write a script that converts a number from base 10 to base 16.-printf '%x\n' $DECIMAL
 
