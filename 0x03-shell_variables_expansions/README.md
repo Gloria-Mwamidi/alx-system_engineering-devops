@@ -5,4 +5,5 @@ Create a script that counts the number of directories in the PATH.-echo $PATH | 
 Create a script that lists environment variables.-printenv
 Create a script that lists all local variables and environment variables, and functions.-set 
 Create a script that creates a new local variable.-BETTY="Holberton"
+Create a script that creates a new global variable.-export HOLBERTON="Betty"
 
